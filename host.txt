@@ -18,12 +18,9 @@
         도메인으로 이동하여 index.html이 잘 나오는지 확인한다.
 
 - GitHub pages
-    entry file을 index.html로 설정한다.
-    레파지토리 생성
-    
+    레파지토리 생성 > add > commit > pull > push
+    Settings > Pages > Branch 선택 (main) > Save > 새로고침 > site 주소 클릭 > 잘 나오는지 확인한다.
 
-
-
-
+- 호스팅 사이트 주소를 README.md 파일에 작성한다.
 
 정통적인 프론트엔드 프레임워크 배포방식은 아니다.
